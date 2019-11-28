@@ -1,0 +1,19 @@
+<!--you are telling what type of document it is-->
+
+<!doctype html>  
+
+<!--you are telling what language the documen is, attributes you tell it what it is-->
+<html lang=eng>
+    <head> 
+    <meta charset="utf-8">
+        <meta name="description" content="introduction to html">
+    <title> I love HTML </title>
+    </head> 
+    <body> 
+        <h1>About me</h1>
+        <p> I &hearts; cookies</p>
+        <P> Let's add a <em>milkshake</em> </P>
+        <a> href="indx.html" > go to index</a">
+        <a> href="https://www.google.com" > go to google </a">
+    </body>
+</html>
